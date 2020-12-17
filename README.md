@@ -1,0 +1,2 @@
+# ez.lang
+The Ez language is a programming language focused on domain, bringing syntax closer to a more natural language. Ez works with keywords in the form of topics, making development more agile, in addition to providing compilation and interpretation of different languages. Object oriented and respecting the concepts of Domain Driven Design (DDD), S.O.L.I.D, the principles of language propose a strong primitive and composite typing
